@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-docker",
+  "version": "1.0.0",
+  "description": "Just a simple node.js app in a Docker container.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
